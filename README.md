@@ -17,8 +17,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Github](https://github.com/ggoliwas/product-preview-card-component-main)
+- Live Site URL: [Live demo](https://ggoliwas.github.io/product-preview-card-component-main/)
 
 ## My process
 
@@ -32,6 +32,7 @@ Users should be able to:
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- LinkedIn - [@Grzegorz Goliwąs](https://www.linkedin.com/in/ggoliwas/)
+- GitHub - [@ggoliwas](https://www.your-site.com)
+- Frontend Mentor - [@ggoliwas](https://www.frontendmentor.io/profile/ggoliwas)
+
